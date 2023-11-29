@@ -4,5 +4,8 @@ These perception exercises were developped within the framework of the SEPALE pr
 Works on Windows and Mac systems.
 # Installation:
 - Download and install Praat (free): https://www.fon.hum.uva.nl/praat/
-- Windows users: download and execute the installer here : https://cloud.parisdescartes.fr/index.php/s/XjqJLPo5cJJ8fXc/download
-- If you are a Mac user (or the Windows installer failed): 
+- Windows users: download and execute the installer (courtesy of Alice Léger) here : https://cloud.parisdescartes.fr/index.php/s/XjqJLPo5cJJ8fXc/download
+- If the installer fails:
+  1. download the plug-in: https://cloud.parisdescartes.fr/index.php/s/k2ZmE38yyCzKN65/download
+  2. unzip the plugin_SEPALE.zip file and place the plugin_SEPALE folder inside the Praat preference folder (mine is "C:\Users\emmanuel\Praat"), adapt user name accordingly.
+- Mac users: 
