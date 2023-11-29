@@ -1,2 +1,3 @@
 # SEPALE
-perception exercises for French learners of English
+These perception exercises were developped within the framework of the SEPALE project, funded by Idex Université Paris Cité. 
+
