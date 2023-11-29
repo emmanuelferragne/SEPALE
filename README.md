@@ -12,3 +12,8 @@ Works on Windows and Mac systems.
   Note: installation should be done only once
 # General use
 Start Praat. If the SEPALE plugin has been correctly installed, you should be able to see a "Start SEPALE" submenu:
+
+<p align="center">
+<img src="https://github.com/emmanuelferragne/SEPALE/blob/master/captureSepale.jpg" width="400"/>
+</p>
+
