@@ -3,4 +3,8 @@ These perception exercises were developped within the framework of the SEPALE pr
 # Compatibility
 Works on Windows and Mac systems.
 # Installation:
-- Download and install Praat: 
+If you are a Windows user: download and execute the Windows installer here
+
+
+- Download and install Praat (free): https://www.fon.hum.uva.nl/praat/
+- 
