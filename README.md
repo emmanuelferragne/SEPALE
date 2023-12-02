@@ -8,7 +8,7 @@ Works on Windows and Mac systems.
 - If the installer fails:
   1. download the plug-in: https://cloud.parisdescartes.fr/index.php/s/k2ZmE38yyCzKN65/download
   2. unzip the plugin_SEPALE.zip file and place the plugin_SEPALE folder inside the Praat preference folder (mine is "C:\Users\emmanuel\Praat"), adapt user name accordingly.
-- Mac users: see SEPALE_Mac_Instructions.pdf in this repo (ignore the reference to Moodle)
+- Mac users: see SEPALE_Mac_Instructions.pdf (by Coline Caillol) in this repo (ignore the reference to Moodle)
   
 __Note: installation should be done only once__
 # General use
